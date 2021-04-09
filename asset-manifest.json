@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/Srimad_Bhagavad_Gita/static/css/main.760101f4.chunk.css",
+    "main.js": "/Srimad_Bhagavad_Gita/static/js/main.37e063eb.chunk.js",
+    "main.js.map": "/Srimad_Bhagavad_Gita/static/js/main.37e063eb.chunk.js.map",
+    "runtime-main.js": "/Srimad_Bhagavad_Gita/static/js/runtime-main.4eff8bbf.js",
+    "runtime-main.js.map": "/Srimad_Bhagavad_Gita/static/js/runtime-main.4eff8bbf.js.map",
+    "static/js/2.97ca251b.chunk.js": "/Srimad_Bhagavad_Gita/static/js/2.97ca251b.chunk.js",
+    "static/js/2.97ca251b.chunk.js.map": "/Srimad_Bhagavad_Gita/static/js/2.97ca251b.chunk.js.map",
+    "index.html": "/Srimad_Bhagavad_Gita/index.html",
+    "static/css/main.760101f4.chunk.css.map": "/Srimad_Bhagavad_Gita/static/css/main.760101f4.chunk.css.map",
+    "static/js/2.97ca251b.chunk.js.LICENSE.txt": "/Srimad_Bhagavad_Gita/static/js/2.97ca251b.chunk.js.LICENSE.txt",
+    "static/media/image.fb9f0ce4.jpg": "/Srimad_Bhagavad_Gita/static/media/image.fb9f0ce4.jpg",
+    "static/media/img1.108fc781.jpg": "/Srimad_Bhagavad_Gita/static/media/img1.108fc781.jpg",
+    "static/media/img10.fea6aedb.jpg": "/Srimad_Bhagavad_Gita/static/media/img10.fea6aedb.jpg",
+    "static/media/img11.1f0544fc.jpg": "/Srimad_Bhagavad_Gita/static/media/img11.1f0544fc.jpg",
+    "static/media/img12.8a595353.jpg": "/Srimad_Bhagavad_Gita/static/media/img12.8a595353.jpg",
+    "static/media/img13.e49f69fe.jpeg": "/Srimad_Bhagavad_Gita/static/media/img13.e49f69fe.jpeg",
+    "static/media/img14.d914b730.jpg": "/Srimad_Bhagavad_Gita/static/media/img14.d914b730.jpg",
+    "static/media/img15.22ee323d.jpg": "/Srimad_Bhagavad_Gita/static/media/img15.22ee323d.jpg",
+    "static/media/img16.dbd35529.jpg": "/Srimad_Bhagavad_Gita/static/media/img16.dbd35529.jpg",
+    "static/media/img17.2ef6eccd.jpg": "/Srimad_Bhagavad_Gita/static/media/img17.2ef6eccd.jpg",
+    "static/media/img18.6e17d301.jpg": "/Srimad_Bhagavad_Gita/static/media/img18.6e17d301.jpg",
+    "static/media/img2.37447846.jpg": "/Srimad_Bhagavad_Gita/static/media/img2.37447846.jpg",
+    "static/media/img3.3f4091be.jpg": "/Srimad_Bhagavad_Gita/static/media/img3.3f4091be.jpg",
+    "static/media/img3.e12a0032.png": "/Srimad_Bhagavad_Gita/static/media/img3.e12a0032.png",
+    "static/media/img4.d01e8004.jpg": "/Srimad_Bhagavad_Gita/static/media/img4.d01e8004.jpg",
+    "static/media/img5.d28250a2.jpg": "/Srimad_Bhagavad_Gita/static/media/img5.d28250a2.jpg",
+    "static/media/img6.f054f0e4.jpg": "/Srimad_Bhagavad_Gita/static/media/img6.f054f0e4.jpg",
+    "static/media/img7.f74e2203.jpg": "/Srimad_Bhagavad_Gita/static/media/img7.f74e2203.jpg",
+    "static/media/img8.c8343fdc.jpg": "/Srimad_Bhagavad_Gita/static/media/img8.c8343fdc.jpg",
+    "static/media/img9.675c521b.jpg": "/Srimad_Bhagavad_Gita/static/media/img9.675c521b.jpg",
+    "static/media/imgverse.0cf2618e.jpg": "/Srimad_Bhagavad_Gita/static/media/imgverse.0cf2618e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4eff8bbf.js",
+    "static/js/2.97ca251b.chunk.js",
+    "static/css/main.760101f4.chunk.css",
+    "static/js/main.37e063eb.chunk.js"
+  ]
+}
