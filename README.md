@@ -21,7 +21,7 @@ When the above command completes you'll be able to view your website at `http://
 
 This project uses the following libraries and services:
 
-- Framework - [ReactJS](https://nextjs.org)
+- Framework - [ReactJS]
 - API - [bhagavad-gita-api](https://github.com/vedicscriptures/bhagavad-gita-api) 
 
 
