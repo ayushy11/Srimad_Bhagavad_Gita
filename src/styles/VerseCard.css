@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap');
+
+.verse__card{
+    flex: 1;
+    cursor: pointer;
+    margin: 20px;
+    max-width: 500px;
+    max-height: 750px;
+    min-width: 400px;
+    min-height: 650px;
+}
+.verse__cardheading{
+    font-family: 'Raleway', sans-serif !important;
+}
+
+.verse__cardsummary{
+    font-family: 'Raleway', sans-serif !important;     
+}
+.verse__cardmedia{    
+    height: 350px;
+}
+
+.MuiDivider-root{
+    margin-bottom: 20px !important;
+    margin-top: 20px !important;
+}

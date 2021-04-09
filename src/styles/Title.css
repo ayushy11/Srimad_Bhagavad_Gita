@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&display=swap');
+
+.title{
+    /* display: flex; */
+    align-items: center;  
+    justify-content: center;  
+    /* border: 2px solid purple; */
+}
+
+.title > img{
+    height: 500px;
+    width: 100vw;
+    margin-bottom: -4px;    
+}
+
+.title > h2{
+    color: white;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Comfortaa', cursive;
+    font-size: xx-large;
+    letter-spacing: 2px;
+}

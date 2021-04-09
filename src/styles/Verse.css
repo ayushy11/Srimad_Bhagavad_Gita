@@ -1,0 +1,8 @@
+.home__verse{
+    width: 100vw;
+    display: flex;  
+    flex-wrap: wrap;
+    justify-content: space-evenly; 
+    background-color: #FEE140;
+    background-image: linear-gradient(90deg, #FEE140 0%, #FA709A 100%); 
+}

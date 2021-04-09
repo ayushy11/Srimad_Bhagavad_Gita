@@ -1,0 +1,17 @@
+.home__chapter{
+    width: 100vw;
+    display: flex;  
+    flex-wrap: wrap;
+    justify-content: space-evenly;  
+    /* background-color: #85FFBD;
+    background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%); */
+    background-color: #FEE140;
+    background-image: linear-gradient(90deg, #FEE140 0%, #FA709A 100%);
+}
+
+/* .home__chapter{
+  display: grid;
+  grid: auto / auto auto auto;
+  align-items: center;
+  justify-content:space-evenly;
+} */

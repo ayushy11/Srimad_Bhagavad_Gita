@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap');
+
+.chapter__card{
+    flex: 1;
+    
+    margin: 20px;
+    max-width: 350px;
+    max-height: 900px;
+    min-width: 450px;   
+    min-height: 980px;
+}
+
+.chapter__cardheading{
+    font-family: 'Raleway', sans-serif !important;
+}
+
+.chapter__cardsummary{
+    font-family: 'Raleway', sans-serif !important;     
+}
+
+.chapter__cardmedia{    
+    height: 300px;
+}
+
+.MuiDivider-root{
+    margin-bottom: 20px !important;
+    margin-top: 20px !important;
+    cursor: default !important;
+}
+
+.chapter__cardcontent{
+    cursor: default !important;
+}
+
